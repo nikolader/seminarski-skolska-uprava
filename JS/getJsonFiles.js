@@ -426,9 +426,9 @@ const currentPathNameArray = currentPathName.substring(1).split('/');
 // console.log(currentPathNameArray);
 
 //----------------------PUTANJA KA JSON FAJLOVIMA-----------------------------
-const izdvajamoLink = 'https://miki-peric.github.io/JSONtest/izdvajamo.json';
-const obavestenjaLink = 'https://miki-peric.github.io/JSONtest/obavestenja.json';
-const pitanjaLink = 'https://miki-peric.github.io/JSONtest/pitanja.json';
+const izdvajamoLink = 'https://nikolader.github.io/test-JSON/izdvajamo.json';
+const obavestenjaLink = 'https://nikolader.github.io/test-JSON/obavestenja.json';
+const pitanjaLink = 'https://nikolader.github.io/test-JSON/pitanja.json';
 
 
 let izdvajamo, obavestenja, pitanja;
