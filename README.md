@@ -1,3 +1,5 @@
+[GitHub Pages rada](https://nikolader.github.io/seminarski-skolska-uprava/)
+
 Rad iz predmeta Web dizajn na ASSZS za potrebe Školske uprave Užice.
 * Tehnologije: HTML, CSS, JavaScript (bez korišćenja biblioteka)
 * Izgled sajta da odgovara sajtovima ministarstava
